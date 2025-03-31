@@ -1,0 +1,13 @@
+{
+    "name": "Emmenez-moi",
+    "albumCover": "/images/albumCovers/emmenez-moi.jpeg",
+    "typeContent": "single",
+    "artist": "Charles Aznavour",
+    "releaseYear": "2025",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Emmenez-moi"
+        }
+    ]
+}
