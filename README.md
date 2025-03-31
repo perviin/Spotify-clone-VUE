@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone - https://perviin-spotify.netlify.app/
+# Spotify Clone - https://perviin-spotify.netlify.app/
 
 Un clone simplifié de Spotify développé avec Vue.js et Tailwind CSS.
 
